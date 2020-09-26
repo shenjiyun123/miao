@@ -1,0 +1,9 @@
+作业：
+使https://shenjiyun123.github.io/miao/zen.html   已完成
+能够访问显示一个hello world页面 a.txt
+
+使https://shenjiyun123.github.io/       已完成
+能够显示一个网页 shenjiyun123.github.io输入到仓库名称
+
+使https://shenjiyun123.github.io/miao/  已完成
+能够访问显示一个页面 index.html
