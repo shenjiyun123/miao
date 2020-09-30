@@ -15,7 +15,7 @@
         color:  blue;
       }
       .a[tabindex="-1"]:hover {
-        color:yello; 
+        color:yellow; 
       }
     </style> 
   </head>
@@ -224,8 +224,11 @@
       font-size: 16px;
     } */
 
-    .prime ul > li:not(:first-child):not(:nth-child(2n + 4)):not(:nth-child) {
+    .prime ul > li:not(:first-child):not(:nth-child(2n + 4)):not(:nth-child(3n + 9)) {
       color: red;
+    }
+    .prime ul > li:not(:nth-child(5n + 25)):not(:nth-child(7n + 49)) {
+      color: yellowgreen;
     }
     </style>
 
